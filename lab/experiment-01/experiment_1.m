@@ -4,7 +4,7 @@ clc;
 clear;
 close all;
 
-% declaring the cariable y(t)
+% declaring the variable y(t)
 syms x(t);
 
 % Declaring the mass and spring constant 

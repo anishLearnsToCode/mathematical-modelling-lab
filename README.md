@@ -4,7 +4,7 @@
 
 | No. | Experiment | Date | Code | File |
 |-----|------------|------|------|------|
-| 1 | Find the solution of an Ordinary Differential Equation (ODE) | 21st August 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-01/experiment_1.m)| [![doc](https://img.icons8.com/color/40/000000/document.png)]() |
+| 1 | Find the solution of an Ordinary Differential Equation (ODE) | 21st August 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-01/experiment_1.m)| [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-experiment-01.pdf) |
 | 2 | Perform Linear Regression and fit a curve in a linear equation | 28th August 2020 | |
 
 
