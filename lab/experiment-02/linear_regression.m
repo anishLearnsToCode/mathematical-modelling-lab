@@ -6,12 +6,22 @@ clear;
 close all;
 
 
+X = [1 1 ; 1 2 ; 1 3];
+y = [1 ; 2 ; 3];
+theta = [0 ; 0];
+alpha = 0.03;
+num_iters = 1000;
+[theta, J_hist] = gradientDescent(X, y, theta, alpha, num_iters);
+
+plot(J_hist);
+disp(theta);
+
 function J = computeCost(X, y, theta)
 %COMPUTECOST Compute cost for linear regression
 %   J = COMPUTECOST(X, y, theta) computes the cost of using theta as the
 %   parameter for linear regression to fit the data points in X and y
 
-  trainingExamles = size(X)(1);
+  trainingExamles = size(X, 1);
   predictions = X * theta;
   squareErrors = (predictions - y) .^ 2;
   J = 0.5 / trainingExamles * sum(squareErrors);
@@ -33,4 +43,3 @@ function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)
      J_history(iter) = computeCost(X, y, theta);
   end
 end
-
