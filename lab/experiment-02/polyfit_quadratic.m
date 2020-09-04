@@ -11,7 +11,7 @@ y = X .^ 3 + 3;
 % Fitting a curve to the data and obtaining parameters theta
 [theta, ~] = polyfit(X, y, 2);
 
-% Creating a quadratic function using the obtained paramerts theta
+% Creating a quadratic function using the obtained parameters theta
 syms f(t);
 f(t) = theta(1) * t ^ 2 + theta(2) * t + theta(3);
 
