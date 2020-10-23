@@ -9,7 +9,7 @@
 | 3 | Perform Linear Regression and Fit a Quadratic Curve to Discrete Data | 4th September 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-02/polyfit_quadratic.m)| [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-2-quadratic-curve-fitting.pdf) |
 | 4 | Perform Linear Regression and Fit a Cubic Curve to Discrete Data | 4th September 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-02/polyfit_cubic.m)| [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-2-cubic-curve-fitting.pdf) |
 | 5 | Fit gien Control Points using a Spline Curve | 25th September 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-03/spline_test.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-3-spline-curve-fitting.pdf) |
-| 6 | Multiple regression in using `regress()` | 16th October 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-6/multiple_regression.m) [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-6-multiple-regression.pdf) |
+| 6 | Multiple regression in using `regress()` | 16th October 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-06/multiple_regression.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-6-multiple-regression.pdf) |
 
 
 ## Running Projects Locally
