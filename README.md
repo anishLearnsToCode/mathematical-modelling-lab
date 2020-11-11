@@ -11,6 +11,8 @@
 | 5 | Fit Control Points using a Spline Curve | 25th September 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-03/spline_test.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-3-spline-curve-fitting.pdf) |
 | 6 | Multiple regression in using `regress()` | 16th October 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-06/multiple_regression.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-6-multiple-regression.pdf) |
 | 7 | Draw some trajectories for predator prey problem in MATLAB | 23d October 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-07/prey_predator_model.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-7-prey-predator-model.pdf) |
+| 8 | Write a Program for Statistical Analysis of Data Using MATLAB. | 6th November 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-08/statistical_data_anlysis.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-8-statistical-analysis.pdf) |
+| 9 | Write a program for Monte Carlo method using MATLAB | 6th November 2020 | [![matlab](https://img.icons8.com/nolan/40/matlab.png)](lab/experiment-09/monte_carlo_simulation.m) | [![doc](https://img.icons8.com/color/40/000000/document.png)](project/ms-lab-9-monte-carlo.pdf) |
 
 ## Running Projects Locally
 Clone this repository on your machine and enter the project directory.
